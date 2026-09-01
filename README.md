@@ -1,25 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyberSnake&color=0:00fff0,50:0066ff,100:000033&height=200&section=header&text=Securing%20Systems%20|%20Building%20AI%20Solutions&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:00f0ff&height=250&section=header&text=AI%20%7C%20Cybersecurity%20%7C%20Systems%20%7C%20Mobile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20%26%20Intelligent%20Solutions&descAlignY=60&descSize=20" alt="Header" />
 </div>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+%26+Systems+Architect;Mobile+App+Developer+%7C+AI+%26+ML+Enthusiast;Building+Secure%2C+Scalable%2C+and+Intelligent+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%26+Systems+Architect;Mobile+App+Developer+%7C+AI+%26+ML+Specialist;Building+Secure%2C+Scalable%2C+and+Intelligent+Systems;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a multidisciplinary Software & Security Engineer specializing in the intersection of **Cybersecurity, Systems Architecture, Mobile Development, and Artificial Intelligence**. I don't just build applications; I architect secure, scalable, and intelligent ecosystems. 
+I am a **multidisciplinary Software & Security Engineer** specializing in the intersection of **Cybersecurity, Systems Architecture, Mobile Development, and Artificial Intelligence**. I don't just build applications — I architect **secure, scalable, and intelligent ecosystems**.
 
-My passion lies in applying "Secure by Design" principles while leveraging AI to solve complex computational problems and enhance user experiences.
+My passion lies in applying **"Secure by Design"** principles while leveraging AI to solve complex computational problems and enhance user experiences.
 
 - 🔭 **Currently working on:** [e.g., An AI-driven mobile app for real-time threat detection]
 - 🌱 **Currently learning:** [e.g., Advanced Penetration Testing, LLM fine-tuning, and Rust]
-- 🧠 **Focus Areas:** Secure Systems Architecture, Cross-Platform Mobile Dev, Applied Machine Learning.
+- 🧠 **Focus Areas:** Secure Systems Architecture, Cross-Platform Mobile Dev, Applied Machine Learning
 - ⚡ **Fun fact:** I spend my weekends hunting bugs on Bugcrowd / solving CTFs on HackTheBox!
+- 💬 **Ask me about:** Cybersecurity, Mobile Development, AI/ML integration, and System Design
 
 ---
 
@@ -30,23 +35,23 @@ My passion lies in applying "Secure by Design" principles while leveraging AI to
     <td valign="top" width="50%">
       <h3 align="center">🛡️ Cybersecurity & Networking</h3>
       <div align="center">
-        <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
-        <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
-        <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"></a>
-        <a href="https://www.burpsuite.com/" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Burp Suite"></a>
-        <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Metasploit"></a>
+        <img src="https://skillicons.dev/icons?i=linux,kali,python,bash&perline=4" alt="Cybersecurity Tools">
+        <br>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=harbor&logoColor=white" alt="Burp Suite">
+        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Metasploit">
       </div>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">🧠 Artificial Intelligence & Data</h3>
+      <h3 align="center">🧠 Artificial Intelligence & ML</h3>
       <div align="center">
-        <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></a>
-        <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></a>
-        <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Pandas/Python"></a>
-        <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"></a>
-        <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
-        <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"></a>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&perline=4" alt="AI Tools">
+        <br>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
       </div>
     </td>
   </tr>
@@ -54,23 +59,20 @@ My passion lies in applying "Secure by Design" principles while leveraging AI to
     <td valign="top" width="50%">
       <h3 align="center">📱 Mobile Development</h3>
       <div align="center">
-        <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"></a>
-        <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native"></a>
-        <a href="https://developer.android.com/kotlin" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"></a>
-        <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"></a>
-        <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart"></a>
-        <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"></a>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,firebase&perline=6" alt="Mobile Tools">
+        <br>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
       </div>
     </td>
     <td valign="top" width="50%">
       <h3 align="center">⚙️ Systems, Backend & DevOps</h3>
       <div align="center">
-        <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
-        <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go"></a>
-        <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
-        <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
+        <img src="https://skillicons.dev/icons?i=nodejs,go,docker,kubernetes,aws,postgresql&perline=6" alt="Systems Tools">
+        <br>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
       </div>
     </td>
   </tr>
@@ -78,12 +80,17 @@ My passion lies in applying "Secure by Design" principles while leveraging AI to
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=00f0ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,29 +98,40 @@ My passion lies in applying "Secure by Design" principles while leveraging AI to
 ### 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&title=Commits,PullRequest,Repositories,Followers,Stars,Issues,MultiLanguage" alt="Trophies" />
 </div>
 
 ---
 
-### 🎓 Certifications & Platforms (Optional but Recommended)
+### 🎯 Security & AI Platforms
 
 <div align="center">
-  <!-- Replace these with your actual badges/links -->
   <a href="https://www.hackthebox.com/profile/[YOUR_HTB_ID]" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/[YOUR_HTB_ID]" alt="HackTheBox Profile">
   </a>
   <a href="https://tryhackme.com/p/[YOUR_THM_USERNAME]" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/[YOUR_THM_USERNAME].png" alt="TryHackMe Profile">
   </a>
-  <!-- Add LeetCode, Kaggle, or AWS badges here if you have them -->
+  <a href="https://www.kaggle.com/[YOUR_KAGGLE_USERNAME]" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/snake.svg" alt="Snake animation" />
+</div>
+
+> 💡 **Note:** To generate the snake animation, create a GitHub Action workflow. I'll provide the code below.
 
 ---
 
 ### 📫 Let's Build Something Secure & Intelligent
 
-<p align="center">
+<div align="center">
   <a href="mailto:[your.email@example.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -126,8 +144,12 @@ My passion lies in applying "Secure by Design" principles while leveraging AI to
   <a href="https://[your-portfolio-website.com]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-</p>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000033,50:0066ff,100:00fff0&height=150&section=footer&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:172a45,100:0a192f&height=150&section=footer&animation=fadeIn&fontAlignY=50" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by [Your Name] | © 2026</sub>
 </div>
