@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=250&section=header&text=ZAKARYA%20AHMED%20AL-ADWAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20%7C%20Systems%20%7C%20Mobile&descAlignY=60&descSize=20" alt="Header" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Zakarya Ahmed Al-Adwar</h1>
+<h1 align="center">Zakarya Ahmed Al-Adwar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%26+Systems+Architect;Mobile+App+Developer+%7C+AI+%26+ML+Specialist;Building+Secure%2C+Scalable%2C+and+Intelligent+Systems;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
@@ -151,5 +151,5 @@ My passion lies in applying **"Secure by Design"** principles while leveraging A
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by Zakarya Ahmed Al-Adwar | © 2026</sub>
+  <sub>Built with  by Zakarya Ahmed Al-Adwar | © 2026</sub>
 </div>
