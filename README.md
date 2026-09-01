@@ -1,85 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=250&section=header&text=ZAKARYA%20AHMED%20AL-ADWAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20%7C%20Systems%20%7C%20Mobile&descAlignY=60&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=250&section=header&text=ZAKARYA%20AHMED%20AL-ADWAR&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=🛡️%20Cybersecurity%20Engineer%20%7C%20Systems%20Architect%20%7C%20Mobile%20Developer&descAlignY=60&descSize=20&descColor=ffffff" alt="Header" />
 </div>
 
-<h1 align="center">Zakarya Ahmed Al-Adwar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E_+Hello+World!+I'm+Zakarya+Ahmed+Al-Adwar;Cybersecurity+Specialist+%26+Systems+Architect;Building+Secure+%26+Intelligent+Solutions;root@kali:~%23+whoami" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%26+Systems+Architect;Mobile+App+Developer+%7C+AI+%26+ML+Specialist;Building+Secure%2C+Scalable%2C+and+Intelligent+Systems;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00ff00&style=for-the-badge&label=🔒+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/Security-Certified-00ff00?style=for-the-badge&logo=shield&logoColor=black" alt="Security">
+  <img src="https://img.shields.io/badge/Experience-Professional-00ff00?style=for-the-badge&logo=code&logoColor=black" alt="Experience">
 </p>
 
 ---
-
-### 🚀 About Me
-
-I am a **multidisciplinary Software & Security Engineer** specializing in the intersection of **Cybersecurity, Systems Architecture, Mobile Development, and Artificial Intelligence**. I don't just build applications — I architect **secure, scalable, and intelligent ecosystems**.
-
-My passion lies in applying **"Secure by Design"** principles while leveraging AI to solve complex computational problems and enhance user experiences.
-
-- 🔭 **Currently working on:** [e.g., An AI-driven mobile app for real-time threat detection]
-- 🌱 **Currently learning:** [e.g., Advanced Penetration Testing, LLM fine-tuning, and Rust]
-- 🧠 **Focus Areas:** Secure Systems Architecture, Cross-Platform Mobile Dev, Applied Machine Learning
-- ⚡ **Fun fact:** I spend my weekends hunting bugs on Bugcrowd / solving CTFs on HackTheBox!
-- 💬 **Ask me about:** Cybersecurity, Mobile Development, AI/ML integration, and System Design
+<h2 align="center">
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</h2> 
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-
+🛠️ Tech Stack & Arsenal
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🛡️ Cybersecurity & Networking</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=linux,kali,python,bash&perline=4" alt="Cybersecurity Tools">
-        <br>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=harbor&logoColor=white" alt="Burp Suite">
-        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Metasploit">
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">🧠 Artificial Intelligence & ML</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&perline=4" alt="AI Tools">
-        <br>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">📱 Mobile Development</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,kotlin&perline=2" alt="Mobile Tools">
-        <br>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">⚙️ DevOps & Backend</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=php,docker,kubernetes,aws,javascript&perline=5" alt="DevOps Tools">
-        <br>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      </div>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">🛡️ Cybersecurity & Ethical Hacking</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash&perline=4" alt="Cybersecurity Tools">
+<br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00ff00" alt="OWASP">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=harbor&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Metasploit">
+<img src="https://img.shields.io/badge/Nmap-004489?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu&logoColor=00ff00" alt="Netcat">
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">🧠 Artificial Intelligence & ML</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&perline=4" alt="AI Tools">
+<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">📱 Mobile Development</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,kotlin&perline=2" alt="Mobile Tools">
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">⚙️ DevOps & Backend Infrastructure</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,docker,kubernetes,aws&perline=4" alt="DevOps Tools">
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</div>
+</td>
+</tr>
 </table>
-
 ---
 
 ### 📊 GitHub Activity & Statistics
