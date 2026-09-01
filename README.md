@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:00f0ff&height=250&section=header&text=AI%20%7C%20Cybersecurity%20%7C%20Systems%20%7C%20Mobile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20%26%20Intelligent%20Solutions&descAlignY=60&descSize=20" alt="Header" />
 </div>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">ZAKARYA AHMED AL-ADWAR</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%26+Systems+Architect;Mobile+App+Developer+%7C+AI+%26+ML+Specialist;Building+Secure%2C+Scalable%2C+and+Intelligent+Systems;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
